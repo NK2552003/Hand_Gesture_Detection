@@ -13,7 +13,7 @@ This project is an AI-powered Hand Gesture Detection system that translates hand
 ## 🛠️ Technologies Used
 - **Python** 🐍
 - **OpenCV** 👀
-- **TensorFlow/Keras** 🤖
+- **TensorFlow/Keras** 🤖  (if you want your own dataset and model to use... but i haveen't used it)
 - **MediaPipe** ✋
 - **Numpy & Pandas** 📊
 
