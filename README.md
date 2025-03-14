@@ -20,7 +20,7 @@ A Python-based system that uses hand gestures to control computer functions like
 
 ### Dependencies
 ```bash
-pip install opencv-python mediapipe pyautogui
+pip install opencv-python mediapipe pyautogui numpy 
 ```
 
 ## Usage 🚀
@@ -58,7 +58,7 @@ pip install opencv-python mediapipe pyautogui
 
 ## Running the System ▶️
 ```bash
-python scrpit_5.py
+python script_5.py
 ```
 
 ## Troubleshooting 🛠️
