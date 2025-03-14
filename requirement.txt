@@ -1,7 +1,6 @@
 numpy
 opencv-python
-mediapipe  (supports python 3.10 and newer version) 
-tensorflow
+mediapipe  
 keras
 p
 pandas
