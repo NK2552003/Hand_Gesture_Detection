@@ -2,8 +2,6 @@
 
 A Python-based system that uses hand gestures to control computer functions like scrolling, tab switching, zooming, and page navigation. Powered by MediaPipe and OpenCV.
 
-![Hand Gesture Demo](demo-gesture.gif)  
-*Add actual demo GIF/video*
 
 ## Features ✨
 - **Inertial Scroll**: Natural scrolling with acceleration and smooth damping
